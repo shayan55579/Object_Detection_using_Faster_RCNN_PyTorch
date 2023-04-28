@@ -12,3 +12,4 @@ Training the model on the annotated dataset using stochastic gradient descent (S
 Evaluating the trained model on a test set to measure its performance.
 Using the trained model to detect objects in new images or videos.
 Faster R-CNN in PyTorch provides a powerful and flexible framework for object detection, allowing researchers and practitioners to customize the model architecture and training process to suit their specific needs.
+![My Image](result.png)
